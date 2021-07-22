@@ -1,4 +1,5 @@
-**BotBuddies**
+****BotBuddies**
 
 
-Learning steps in REACT with samll project
+Learning steps in REACT with a small project
+**
